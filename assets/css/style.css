@@ -70,6 +70,7 @@ header .line {
 }
 .header--search input {
     font-size: 18px;
+    caret-color: #006341;
     padding: 8px 15px;
     border: 1px solid rgb(211, 209, 209);
     /* retira o foco preto em volta do quadrado */
