@@ -1,6 +1,6 @@
 # Starbucks
 
-Projeto clone de um site responsivo com layouts flexiveis de acordo com o dispositivo acessado. Sendo ele smartphone, tablet ou desktop.
+Clone project of a responsive website with flexible layouts according to the device accessed. Whether it's smartphone, tablet or desktop.
 
 ## Resources
 
