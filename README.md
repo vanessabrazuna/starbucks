@@ -1,7 +1,3 @@
-<p align="left">
-  <img alt="Starbucks" src="https://user-images.githubusercontent.com/73675022/170380494-2af40a3b-0e41-4c3d-9009-1fa4171387af.png" width="50%">
-</p>
-
 # Starbucks
 
 Clone project of a responsive website with flexible layouts according to the device accessed. Whether it's smartphone, tablet or desktop.
